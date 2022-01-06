@@ -38,7 +38,7 @@ body{
   }
   .develop-width {
     width: 50%;
-   
+    margin-right: 50px;
 }
 .develop-div {
   margin-left: 210px;
