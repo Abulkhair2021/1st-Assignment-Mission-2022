@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  .top-section {
+    display: flex;
+    margin-left: 141px;
+    margin-top: 81px;
+}
+.top-section small{
+  color: #d55409;
+}
+.top-section p {
+  color: black;
+  text-align: inherit;
+  padding-bottom: 13px;
+}
+.top-tex-scroll {
+  margin-top: 34px;
+}
+.develop-section {
+  display: flex;
+  background-image: url(../images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.develop-section img {
+  width: 85%;
+}
+.develop-section p {
+  color: black;
+  text-align: inherit;
+  padding-bottom: 33px;
+}
+.develop-img
+  .half-width{
+    width: 50%;
+  }
+  .develop-width {
+    width: 50%;
+   
+}
+.develop-div {
+  margin-left: 210px;
+  width: 37%;
+}
+  .half-width img {
+    width: 50%;
+    margin: -76px;
+    padding-left: 165px;
+}
+  .top-section h1 {
+    border-left: solid 4px #f33550;
+    padding-left: 9px;
+}
+  .explor-link {
+    text-decoration: none;
+    padding: 15px;
+    background-color: #d55409;
+    margin-left: 23px;
+    color: white;
+    border-radius: 4px;
+}
+  .my-mission {
+    display: flex;
+    margin-bottom: 34px;
+}
+  .my-mision-div img {
+    width: 37%;
+    padding-left: 18px;
+    margin-top: 21px;
+}
+.my-heading {
+  text-align: center;
+}
+.my-heading small{
+  color: tomato;
+}
+.my-mision-div p {
+  color: black;
+  text-align: inherit;
+  padding-left: 23px;
+}
+.my-mision-1st-section {
+  margin-left: 17%;
+  background-color: #dfe3d4;
+  border-radius: 11px;
+}
+.my-mision-2nd-section {
+  background-color: #ede0bb;
+  border-radius: 11px;
+  margin-left: 16px;
+}
+.my-mision-3rd-section {
+  background-color: #d1e1a6;
+  border-radius: 11px;
+  margin-left: 16px;
+}
+.my-mision-div h3 {
+  padding-left: 28px;
+  margin: 0;
+}
+.my-mision-div {
+  width: 21%;
+}
+.about-know {
+  display: flex;
+  padding-bottom: 52px;
+  margin-top: 33px;
+}
+.know-content {
+  width: 50%;
+  margin-left: 200px;
+}
+.about-know p {
+  color: black;
+  text-align: inherit;
+  padding-bottom: 26px;
+}
+.know-img{
+  width: 50%;
+}
+.know-img img {
+  width: 57%;
+  padding-left: 40px;
+}
+  footer {
+    background-color: black;
+    padding: 20px 0px;
+}
+.footer-head h3,p{
+      color: white;
+      text-align: center;
+  }
+  .footer-head small {
+    color: tomato;
+    padding-left: 11px;
+}
